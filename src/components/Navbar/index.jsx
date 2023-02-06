@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 
 import "./styles.css";
 
-import img from "../../assets/images/cal_icon_1.png";
+import img from "../../assets/images/cal_icon.png";
 
 const Navbar = () => {
   const navigate = useNavigate();
