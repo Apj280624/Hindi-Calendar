@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Hindi-Calendar-2023/static/css/main.ce13ce28.css",
-    "main.js": "/Hindi-Calendar-2023/static/js/main.e14c6c12.js",
+    "main.js": "/Hindi-Calendar-2023/static/js/main.e037fd1d.js",
     "static/media/Calendar.pdf": "/Hindi-Calendar-2023/static/media/Calendar.38a582e94d313277f993.pdf",
     "static/media/pdf.worker.js": "/Hindi-Calendar-2023/static/media/pdf.worker.ca027a364cb21fff1e00.js",
     "static/media/cal_icon.png": "/Hindi-Calendar-2023/static/media/cal_icon.fa672e132f73d70313f3.png",
     "index.html": "/Hindi-Calendar-2023/index.html",
     "main.ce13ce28.css.map": "/Hindi-Calendar-2023/static/css/main.ce13ce28.css.map",
-    "main.e14c6c12.js.map": "/Hindi-Calendar-2023/static/js/main.e14c6c12.js.map"
+    "main.e037fd1d.js.map": "/Hindi-Calendar-2023/static/js/main.e037fd1d.js.map"
   },
   "entrypoints": [
     "static/css/main.ce13ce28.css",
-    "static/js/main.e14c6c12.js"
+    "static/js/main.e037fd1d.js"
   ]
 }
