@@ -1,0 +1,13 @@
+.select-pg-outer-div {
+  margin: 0px;
+  margin-top: 5.2rem;
+  /* margin-bottom: 10rem; */
+  /* border: 2px solid green; */
+  padding: 1rem;
+}
+
+.select-pg-card-outer-div {
+  padding: 0.5rem;
+  /* border: 2px solid blue; */
+  margin: 0;
+}
